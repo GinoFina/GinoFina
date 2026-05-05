@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Gino Fina</h1>
-  <b>Information Systems Engineering Student | Full-Stack Developer | Data Analyst</b><br><br>
+  <b>Information Systems Engineering | Full-Stack Developer | Data Analyst</b><br><br>
   <a href="https://www.linkedin.com/in/ginofina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://ginofina-com.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:gino_fina@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
@@ -50,13 +50,4 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-
----
-
-<h3 align="center">GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GinoFina&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Gino's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinoFina&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages">
 </p>
