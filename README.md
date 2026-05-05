@@ -1,6 +1,6 @@
 <div align="center">
 
-# Santiago Gino Fina
+# Gino Fina
 
 **Information Systems Engineering Student | Full-Stack Developer | Data Analyst**
 
