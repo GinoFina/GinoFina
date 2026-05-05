@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Gino Fina</h1>
-  <b>Information Systems Engineering | Full-Stack Developer | Data Analyst</b><br><br>
+  <b>Information Systems Engineer | Full-Stack Developer | Data Analyst</b><br><br>
   <a href="https://www.linkedin.com/in/ginofina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://ginofina-com.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:gino_fina@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
@@ -9,14 +9,14 @@
 ---
 
 ### About Me (EN)
-* Based in Rosario, Argentina, currently studying Information Systems Engineering.
+* Based in Rosario, Argentina. Information Systems Engineer.
 * Working as a Software Developer focused on building scalable web applications.
 * Experienced as a Data Analyst, transforming complex data into strategic decisions using Machine Learning and Power BI.
 * Currently developing a comprehensive parking management system featuring ticket generation, real-time availability tracking, and payment integration.
 * Languages: Spanish (Native) | English (Advanced B2) | Italian (Advanced B2).
 
 ### Sobre mí (ES)
-* Radicado en Rosario, Argentina, estudiante de Ingeniería en Sistemas de Información.
+* Radicado en Rosario, Argentina. Ingeniero en Sistemas de Información.
 * Trabajando como Desarrollador de Software enfocado en la creación de aplicaciones web escalables.
 * Experiencia previa como Analista de Datos, transformando datos complejos en decisiones estratégicas mediante Machine Learning y Power BI.
 * Desarrollando un sistema integral de gestión de estacionamientos con generación de tickets, disponibilidad en tiempo real e integración de pagos.
